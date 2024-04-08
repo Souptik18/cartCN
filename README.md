@@ -65,13 +65,9 @@ Outline the technologies, frameworks, libraries, and tools used to build your pr
 1. Clone the repository:
 git clone 
 
-css
-Copy code
 2. Navigate to the project directory:
 cd your-project
 
-markdown
-Copy code
 3. Install dependencies:
 npm install
 
