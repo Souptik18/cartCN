@@ -53,18 +53,18 @@ Outline the technologies, frameworks, libraries, and tools used to build your pr
 - Styled Components
 - React Router
 
-
-## Getting Started
-
-Provide detailed instructions on how to set up and run your project locally. Include prerequisites, installation steps, configuration, and any additional setup required.
-
 ### Prerequisites
-- npm 
+- npm
+- vite
+- react
+- api
+- react router
+- redux 
 
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/your-project.git
+git clone 
 
 css
 Copy code
