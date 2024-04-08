@@ -4,17 +4,10 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
 Provide a brief overview of your project, its purpose, and its target audience. You can also mention any unique selling points or goals you aim to achieve with the project.
-
-## Features
-
-List the key features and functionalities of your project. You can organize them into categories or bullet points for better readability.
 
 ## Features
 
